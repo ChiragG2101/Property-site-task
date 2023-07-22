@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@300&family=Urbanist:wght@500;600&display=swap");
+
+* {
+  font-family: "Rubik", sans-serif;
+  font-family: "Urbanist", sans-serif;
+  /* background: #f4f5f7; */
+}
+
+#app {
+  background: #f4f5f7;
+}
+
+:root {
+  --secondary-color: #ea6847;
+}
+
+.card-img-overlay {
+  background-color: rgba(#000, 0.4);
+}
+
+.card-t-1 {
+  /* background-image: url("../../public/Images/gallery.jpg"); */
+  background-color: rgba(#000, 0.4) !important;
+}
