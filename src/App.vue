@@ -9,8 +9,8 @@ const navbarElements = ref(["Home", "Buy", "Sell", "Contact Us"]);
 
 <template>
   <header>
-    <Navbar :navbar-elements="navbarElements" />
-    <Hero :headline="32" />
+    <Navbar />
+    <Hero />
     <div class="d-flex justify-content-evenly mx-5 px-5">
       <img src="/Images/company.png" alt="" />
       <img src="/Images/company.png" alt="" />

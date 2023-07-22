@@ -173,10 +173,6 @@
   </section>
 </template>
 
-<script setup>
-const { headline } = defineProps({
-  headline: String,
-});
-</script>
+<script setup></script>
 
 <style lang="scss" scoped></style>

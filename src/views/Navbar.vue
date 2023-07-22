@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div class="container" id="navbar">
     <header
       class="d-flex flex-wrap align-items-center justify-content-center justify-content-md-between py-3 mb-4"
     >
@@ -8,7 +8,12 @@
           href="/"
           class="d-inline-flex link-body-emphasis text-decoration-none"
         >
-          <img src="/Images/logo.png" width="100px" />
+          <img
+            src="/Images/logo.png"
+            width="140px"
+            height="60px"
+            style="object-fit: cover"
+          />
         </a>
       </div>
 
@@ -59,7 +64,3 @@ import { onMounted } from "vue";
 
 const { navbarElements } = defineProps({ navbarElements: Array });
 </script>
-
-<style lang="scss" scoped>
-background: #f4f5f7;
-</style>
