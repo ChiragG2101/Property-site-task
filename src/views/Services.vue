@@ -26,7 +26,7 @@
       <div class="container col-2 mx-5">
         <div class="card text-bg-dark">
           <img
-            src="../../public/Images/gallery.jpg"
+            src="/Images/gallery.jpg"
             class="card-img"
             alt="..."
             height="300x"
@@ -47,7 +47,7 @@
       <div class="container col-2 mx-2">
         <div class="card text-bg-dark">
           <img
-            src="../../public/Images/gallery.jpg"
+            src="/Images/gallery.jpg"
             class="card-img"
             alt="..."
             height="300x"
@@ -68,7 +68,7 @@
       <div class="container col-2 mx-5">
         <div class="card text-bg-dark">
           <img
-            src="../../public/Images/gallery.jpg"
+            src="/Images/gallery.jpg"
             class="card-img"
             alt="..."
             height="300x"
@@ -94,7 +94,7 @@
         style="height: 55px; background-color: #ea6847"
       >
         <img
-          src="Images/arrow-right-line.svg"
+          src="/Images/arrow-right-line.svg"
           alt=""
           height="30px"
           width="80px"

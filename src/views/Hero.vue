@@ -67,7 +67,7 @@
         <div class="col-6 position-relative">
           <div class="position-absolute" style="z-index: 2">
             <img
-              src="../../public/Images/gallery.jpg"
+              src="/Images/gallery.jpg"
               height="500px"
               width="400px"
               alt="image"
@@ -100,7 +100,7 @@
         >
           <div class="d-flex text-middle">
             <img
-              src="Images/map-pin-line.svg"
+              src="/Images/map-pin-line.svg"
               alt=""
               height="30px"
               style="color: black"
@@ -110,7 +110,7 @@
               <p class="text-secondary m-0">
                 location
                 <span
-                  ><img src="Images/arrow-drop-down-line.png" alt="" />
+                  ><img src="/Images/arrow-drop-down-line.png" alt="" />
                 </span>
               </p>
               <h5 class="fw-semibold">Chicago, US</h5>
@@ -159,7 +159,7 @@
               style="height: 55px"
             >
               <img
-                src="Images/search-line.svg"
+                src="/Images/search-line.svg"
                 alt=""
                 height="30px"
                 width="80px"
