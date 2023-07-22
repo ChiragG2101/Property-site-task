@@ -136,7 +136,7 @@
           </div>
           <div class="d-flex text-middle">
             <img
-              src="Images/money-dollar-circle-line.svg"
+              src="/Images/money-dollar-circle-line.svg"
               alt=""
               height="30px"
               style="color: black"
