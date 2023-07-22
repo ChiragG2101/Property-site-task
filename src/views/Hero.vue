@@ -146,7 +146,7 @@
               <p class="text-secondary m-0">
                 Price Range
                 <span
-                  ><img src="Images/arrow-drop-down-line.png" alt="" />
+                  ><img src="/Images/arrow-drop-down-line.png" alt="" />
                 </span>
               </p>
               <h5 class="fw-semibold">$30k - $120k</h5>
