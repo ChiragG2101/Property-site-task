@@ -13,17 +13,18 @@
             width="140px"
             height="60px"
             style="object-fit: cover"
+            alt="random"
           />
         </a>
       </div>
 
       <ul
-        class="nav col-12 col-md-auto mb-2 justify-content-evenly flex-grow-1 fw-semibold"
+        class="nav col-12 col-md-auto mb-2 justify-content-center flex-grow-1 fw-semibold"
       >
         <li>
           <a
             href="#"
-            class="nav-link px-2 link-dark"
+            class="nav-link px-0 link-dark mx-5"
             style="margin-right: -100px"
             >Home</a
           >
@@ -31,7 +32,7 @@
         <li>
           <a
             href="#"
-            class="nav-link px-2 link-dark"
+            class="nav-link px-0 link-dark mx-5"
             style="margin-right: -100px"
             >Buy</a
           >
@@ -39,12 +40,12 @@
         <li>
           <a
             href="#"
-            class="nav-link px-2 link-dark"
+            class="nav-link px-0 link-dark mx-5"
             style="margin-right: -100px"
             >Sell</a
           >
         </li>
-        <li><a href="#" class="nav-link px-2 link-dark">Contact Us</a></li>
+        <li><a href="#" class="nav-link px-0 link-dark mx-5">Contact Us</a></li>
       </ul>
 
       <div class="col-md-3 text-end">

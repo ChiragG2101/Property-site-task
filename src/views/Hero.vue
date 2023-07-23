@@ -79,23 +79,10 @@
               "
             />
           </div>
-          <div
-            class="position-absolute"
-            style="
-              border: 2px;
-              border-style: solid;
-              border-color: #ea6847;
-              height: 500px;
-              width: 400px;
-              transform: rotate(-30deg);
-              top: 50px;
-              right: 100px;
-              z-index: 1;
-            "
-          ></div>
+          <div class="position-absolute" id="frame"></div>
         </div>
         <div
-          class="position-absolute border border-light shadow rounded bg-light align-self-center d-flex justify-content-evenly"
+          class="position-absolute border border-light shadow rounded bg-light mx-auto align-self-center d-flex justify-content-evenly"
           style="height: 100px; bottom: 100px; width: 1200px; z-index: 3"
         >
           <div class="d-flex text-middle">
@@ -156,14 +143,14 @@
             <button
               type="button"
               class="btn btn-dark rounded-pill me-2"
-              style="height: 55px"
+              style="height: 55px; width: 120px"
             >
               <img
                 src="/Images/search-line.svg"
                 alt=""
                 height="30px"
-                width="80px"
                 class="align-self-center bg-dark"
+                id="search"
               />
             </button>
           </div>

@@ -14,6 +14,10 @@
   --secondary-color: #ea6847;
 }
 
+#search:hover {
+  background-color: #ea6847;
+}
+
 .card-img-overlay {
   background-color: rgba(#000, 0.4);
 }
@@ -21,4 +25,22 @@
 .card-t-1 {
   /* background-image: url("../../public/Images/gallery.jpg"); */
   background-color: rgba(#000, 0.4) !important;
+}
+
+#frame {
+  border: 2px;
+  border-style: solid;
+  border-color: #ea6847;
+  height: 500px;
+  width: 400px;
+  transform: rotate(-30deg);
+  top: 50px;
+  right: 100px;
+  z-index: 1;
+}
+
+@media screen and (min-width: 1300px) {
+  #frame {
+    right: 180px;
+  }
 }

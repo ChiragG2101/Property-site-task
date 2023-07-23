@@ -99,7 +99,6 @@
           height="30px"
           width="80px"
           class="align-self-center"
-          style="background-color: #ea6847"
         />
       </button>
     </div>
